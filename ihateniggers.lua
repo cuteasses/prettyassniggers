@@ -19,7 +19,7 @@ local ForceHit = {
         Visible = true,
         Transparency = 1,
         Thickness = 2,
-        Radius = 400,
+        Radius = 305,
         Color = Color3.fromRGB(255, 203, 252)
     }
 }
